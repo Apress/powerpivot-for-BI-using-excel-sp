@@ -1,0 +1,8 @@
+100	DooDads
+200	Widgets
+300	Thingmajigs
+400	Whatyamacallit
+500	Sprocket
+600	Dewhickey
+700	Fetzer Valve
+800	Skyhook
